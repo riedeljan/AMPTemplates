@@ -1,9 +1,0 @@
-[
-    {
-        "Protocol": "TCP",
-        "Port": 6379,
-        "Ref": "ServerPort",
-        "Name": "Server Port",
-        "Description": "Port for server traffic"
-    }
-]

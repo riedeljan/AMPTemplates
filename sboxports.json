@@ -1,9 +1,0 @@
-[
-    {
-        "Protocol": "Both",
-        "Port": 27015,
-        "Ref": "ServerPort",
-        "Name": "Server Port",
-        "Description": "Port for server traffic"
-    }
-]

@@ -1,8 +1,0 @@
-[
-    {
-        "ConfigFile": "default.cfg",
-        "AutoMap": true,
-        "ConfigType": "template",
-        "ConfigFileTemplate": "aliens-vs-predator/AMP_default.cfg"
-    }
-]

@@ -1,8 +1,0 @@
-[
-    {
-        "ConfigFile": "Servers/{{serverName}}/Config/server.json",
-        "AutoMap": true,
-        "Importable": true,
-        "ConfigType": "json"
-    }
-]
